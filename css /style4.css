@@ -1,0 +1,178 @@
+@ font-face { 
+  familia de fuentes :  'Oswald' , sans-serif; 
+
+*  { 
+  margen :  0 px ; 
+  relleno :  0 px ; 
+  de caja de tamaño : frontera-box; 
+} 
+
+cuerpo { 
+  familia de fuentes :  'Oswald' ; 
+
+  tamaño de fuente :  3,5 vw ; 
+  espaciado entre letras :  0,1 vw ; 
+} 
+
+h2 { 
+  tamaño de fuente :  4.5 vw ; 
+} 
+
+. stg_navbar { 
+  tamaño de fuente : inicial; 
+} 
+
+. stg_navbar  a { 
+  font-weight : negrita; 
+} 
+
+. la barra de navegación { 
+  pantalla : flex; 
+  dirección flexible : fila; 
+  padding-left :  0 ; 
+  margen inferior :  0 ; 
+  estilo de lista : ninguno; 
+} 
+
+. navbar-nav . link-the nav { 
+  padding-left :  10 px ; 
+} 
+
+. sec1 { 
+  acolchado :  10 % ; 
+} 
+
+. navbar-nav . menú desplegable { 
+  posición : absoluta; 
+  índice z :  1000 ; 
+
+  ancho mínimo :  10 rem ; 
+  acolchado :  0.5 rem  0 ; 
+  margen :  0 ; 
+  tamaño de fuente :  1 rem ; 
+  color :  # 212529 ; 
+  alineación de texto : izquierda; 
+  estilo de lista : ninguno; 
+  color de fondo :  # ffffffe8 ; 
+  clip de fondo : padding-box; 
+  borde :  1 px sólido de rgba ( 0 ,  0 ,  0 ,  0.15 ); 
+  radio del borde :  0,25 rem ; 
+} 
+
+
+
+pie de página  >  div { 
+  color de fondo :  rgba ( 1 ,  1 ,  1 ,  0.7 ); 
+  color :  # fff ; 
+  acolchado :  2 % ; 
+  margen superior :  4 % ; 
+} 
+
+footer  h2 { 
+  tamaño de fuente :  4.5 vw ; 
+} 
+
+pie de página  a { 
+  pantalla : bloque; 
+  color :  # fff ; 
+  decoración de texto : ninguna; 
+  tamaño de fuente :  4 vw ; 
+} 
+
+pie de página  a : hover { 
+  color : verde; 
+} 
+
+pie de página . col-md-5 { 
+  pantalla : flex; 
+  flex-direction : column; 
+  justificar-contenido : espacio-entre; 
+} 
+
+pie de página . enlaces_sociales { 
+  pantalla : flex; 
+} 
+
+pie de página . social_links  a { 
+  tamaño de fuente :  4.6 vw ; 
+} 
+
+pie de página . enlaces_sociales . fb : hover { 
+} 
+
+pie de página . enlaces_sociales . insta : hover { 
+} 
+
+pie de página . enlaces_sociales . tgm : hover { 
+} 
+
+pie de página . enlaces_sociales . in : hover { 
+} 
+
+pie de página . enlaces_sociales . ytb : hover { 
+} 
+
+pie de página . enlaces_sociales . twt : hover { 
+} 
+
+. logo { 
+  color de fondo : negro; 
+  alineación de texto : centro; 
+} 
+
+.logo  img { 
+  ancho :  40 vw ; 
+} 
+
+.logo_foot  img { 
+  ancho :  30 vw ; 
+} 
+
+. info_sec { 
+  imagen de fondo : url (.. / img / ejecutium-Pxq6uhDmtfg-unsplash.jpg); 
+  tamaño de fondo : cubierta; 
+  archivo adjunto de fondo : fijo; 
+  posición de fondo : derecha; 
+  repetición de fondo : no repetición; 
+
+  acolchado superior :  8 % ; 
+  margen superior :  4 % ; 
+  color : negro; 
+  
+} 
+
+. info_sec . con { 
+  alineación de texto : centro; 
+  acolchado :  3 % ; 
+} 
+
+. info_sec  y { 
+  tamaño de fuente :  8 vw ; 
+} 
+
+. info_sec . escudo { 
+  color :  rgb ( 11 ,  197 ,  230 ); 
+} 
+
+. info_sec . tarjeta bancaria { 
+  color :  rgb ( 6 ,  185 ,  6 ); 
+} 
+
+. info_sec . equipo { 
+  color : naranja; 
+} 
+
+. info_sec . uparrow { 
+  color : rojo; 
+} 
+
+
+. info_sec . difuminar { 
+  altura :  30 vw ; 
+  fondo : rgba ( 255 ,  255 ,  255 ,  0.40 ); 
+  radio del borde :  20 px ; 
+  
+  
+
+  
+} 
